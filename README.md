@@ -1,5 +1,5 @@
 # Business-Insights-360
-🔹 AtliQ Hardware – Business Insights 360° Dashboard
+🔹 AtliQ Hardware – Business Insights 360° Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMzViNzQ5MGEtZWVhNC00MDRjLWExOTQtYzZkOTI1MzY0OTVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 📌 Situation:
 AtliQ Hardware, a fast-growing consumer electronics company with operations across multiple regions, relied heavily on Excel for reporting. This manual approach created visibility gaps in financial and operational performance, contributing to substantial losses, particularly in the LATAM region.
