@@ -1,5 +1,5 @@
 # Business-Insights-360
-🔹 AtliQ Hardware – Business Insights 360° Dashboard | Power BI Portfolio Project (Codebasics Challenge)
+🔹 AtliQ Hardware – Business Insights 360° Dashboard
 
 📌 Situation:
 AtliQ Hardware, a fast-growing consumer electronics company with operations across multiple regions, relied heavily on Excel for reporting. This manual approach created visibility gaps in financial and operational performance, contributing to substantial losses, particularly in the LATAM region.
